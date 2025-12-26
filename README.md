@@ -166,7 +166,7 @@ VITE_GEMINI_API_KEY=your_gemini_api_key_here
 
 Create `.env` in the `backend` directory:
 ```env
-MONGODB_URI=mongodb://localhost:27017/smartapply-ai
+MONGODB_URI=
 JWT_SECRET=your_super_secret_jwt_key_here
 PORT=4000
 ```
@@ -222,7 +222,7 @@ brew install mongodb-community
 brew services start mongodb-community
 
 # Connection string
-MONGODB_URI=mongodb://localhost:27017/smartapply-ai
+MONGODB_URI=
 ```
 
 **Option 2: MongoDB Atlas (Cloud)**
@@ -231,7 +231,7 @@ MONGODB_URI=mongodb://localhost:27017/smartapply-ai
 3. Get connection string
 4. Add to backend `.env`:
 ```env
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/smartapply-ai
+MONGODB_URI=
 ```
 
 ---
