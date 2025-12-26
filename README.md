@@ -71,26 +71,29 @@
 screenshots
 <h2>Screenshots</h2>
 
+<h2>Screenshots</h2>
+
 <h3>Home Page</h3>
-<img src="https://raw.githubusercontent.com/supriya0415/SMARTAPPLY-AI/main/screenshots/Screenshot%202025-12-26%20160700.png" />
+<img src="./screenshots/home.png" />
 
 <h3>Why Choose SmartApply AI</h3>
-<img src="https://raw.githubusercontent.com/supriya0415/SMARTAPPLY-AI/main/screenshots/Screenshot%202025-12-26%20160728.png" />
+<img src="./screenshots/why-choose.png" />
 
 <h3>Career Discovery Dashboard</h3>
-<img src="https://raw.githubusercontent.com/supriya0415/SMARTAPPLY-AI/main/screenshots/Screenshot%202025-12-26%20161204.png" />
+<img src="./screenshots/dashboard.png" />
 
 <h3>Learning Resources Page</h3>
-<img src="https://raw.githubusercontent.com/supriya0415/SMARTAPPLY-AI/main/screenshots/Screenshot%202025-12-26%20161232.png" />
+<img src="./screenshots/learning.png" />
 
 <h3>Resume Upload Page</h3>
-<img src="https://raw.githubusercontent.com/supriya0415/SMARTAPPLY-AI/main/screenshots/Screenshot%202025-12-26%20161327.png" />
+<img src="./screenshots/resume-loading.png" />
 
 <h3>Resume Analysis Loading</h3>
-<img src="https://raw.githubusercontent.com/supriya0415/SMARTAPPLY-AI/main/screenshots/Screenshot%202025-12-26%20161338.png" />
+<img src="./screenshots/resume-loading1.png" />
 
 <h3>Resume Score & ATS Analysis</h3>
-<img src="https://raw.githubusercontent.com/supriya0415/SMARTAPPLY-AI/main/screenshots/Screenshot%202025-12-26%20161512.png" />
+<img src="./screenshots/resume-score.png" />
+
 
 
 ## Tech Stack
