@@ -67,33 +67,33 @@
 - **Similar Jobs**: Relevant job recommendations with LinkedIn search
 - **Resource Recommendations**: Top learning materials for your path
 
----
+
 screenshots
 <h2>Screenshots</h2>
 
-<h2>Screenshots</h2>
-
 <h3>Home Page</h3>
-<img src="./screenshots/home.png" />
+<img width="1920" height="1080" alt="home" src="https://github.com/user-attachments/assets/17725c7e-158e-4d2b-8e3f-d95819394404" />
 
 <h3>Why Choose SmartApply AI</h3>
-<img src="./screenshots/why-choose.png" />
+<img width="1920" height="1080" alt="why-choose" src="https://github.com/user-attachments/assets/faf98822-cf8d-4c34-acb8-f9f8f5c9dca4" />
 
 <h3>Career Discovery Dashboard</h3>
-<img src="./screenshots/dashboard.png" />
+<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/edd7ca2c-1143-4cc2-a4a5-e3046ef7fe6d" />
+
 
 <h3>Learning Resources Page</h3>
-<img src="./screenshots/learning.png" />
+<img width="1920" height="1080" alt="learning" src="https://github.com/user-attachments/assets/fa1e6958-09f2-43e9-b012-f4242f8eee07" />
+
 
 <h3>Resume Upload Page</h3>
-<img src="./screenshots/resume-loading.png" />
+<img width="1920" height="1080" alt="resume-loading" src="https://github.com/user-attachments/assets/42849754-a9ce-4c08-be86-96a5d9a0be67" />
 
 <h3>Resume Analysis Loading</h3>
-<img src="./screenshots/resume-loading1.png" />
+<img width="1920" height="1080" alt="resume-loading1" src="https://github.com/user-attachments/assets/b40ff8bd-f806-4fb0-90c0-d3644ef1296f" />
+
 
 <h3>Resume Score & ATS Analysis</h3>
-<img src="./screenshots/resume-score.png" />
-
+<img width="1914" height="908" alt="resume-score" src="https://github.com/user-attachments/assets/dc061f60-4fe6-4fe6-96ef-19cb08a484ae" />
 
 
 ## Tech Stack
