@@ -175,7 +175,7 @@ interface AssessmentForm {
 
 ```typescript
 interface GeminiConfig {
-  apiKey: string // AIzaSyB3HO7OLq6KlRtRSYE2semgS8bcJvwIodQ
+  apiKey: string 
   model: string
   cacheEnabled: boolean
   maxTokens: number
