@@ -69,13 +69,27 @@
 
 ---
 screenshots
-"C:\Users\SUPRIYA\Pictures\Screenshots\Screenshot 2025-12-26 160700.png"
-"C:\Users\SUPRIYA\Pictures\Screenshots\Screenshot 2025-12-26 160728.png"
-"C:\Users\SUPRIYA\Pictures\Screenshots\Screenshot 2025-12-26 161204.png"
-"C:\Users\SUPRIYA\Pictures\Screenshots\Screenshot 2025-12-26 161232.png"
-"C:\Users\SUPRIYA\Pictures\Screenshots\Screenshot 2025-12-26 161327.png"
-"C:\Users\SUPRIYA\Pictures\Screenshots\Screenshot 2025-12-26 161338.png"
-"C:\Users\SUPRIYA\Pictures\Screenshots\Screenshot 2025-12-26 161512.png"
+<img width="1919" height="1019" alt="Home Page"
+src="https://raw.githubusercontent.com/supriya0415/SMARTAPPLY-AI/main/screenshots/Screenshot%202025-12-26%20160700.png" />
+
+<img width="1919" height="1019" alt="Why Choose SmartApply AI"
+src="https://raw.githubusercontent.com/supriya0415/SMARTAPPLY-AI/main/screenshots/Screenshot%202025-12-26%20160728.png" />
+
+<img width="1919" height="1019" alt="Career Discovery Dashboard"
+src="https://raw.githubusercontent.com/supriya0415/SMARTAPPLY-AI/main/screenshots/Screenshot%202025-12-26%20161204.png" />
+
+<img width="1919" height="1019" alt="Learning Resources Page"
+src="https://raw.githubusercontent.com/supriya0415/SMARTAPPLY-AI/main/screenshots/Screenshot%202025-12-26%20161232.png" />
+
+<img width="1919" height="1019" alt="Resume Upload Page"
+src="https://raw.githubusercontent.com/supriya0415/SMARTAPPLY-AI/main/screenshots/Screenshot%202025-12-26%20161327.png" />
+
+<img width="1919" height="1019" alt="Resume Analysis Loading"
+src="https://raw.githubusercontent.com/supriya0415/SMARTAPPLY-AI/main/screenshots/Screenshot%202025-12-26%20161338.png" />
+
+<img width="1919" height="1019" alt="Resume Score & ATS Analysis"
+src="https://raw.githubusercontent.com/supriya0415/SMARTAPPLY-AI/main/screenshots/Screenshot%202025-12-26%20161512.png" />
+
 
 ## Tech Stack
 
