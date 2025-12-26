@@ -71,7 +71,9 @@
 screenshots
 
 <h3>Home Page</h3>
-<img src="https://raw.githubusercontent.com/supriya0415/SMARTAPPLY-AI/main/screenshots/Screenshot%202025-12-26 160700.png" />
+<h3>Home Page</h3>
+<img src="https://raw.githubusercontent.com/supriya0415/SMARTAPPLY-AI/main/screenshots/Screenshot%202025-12-26%20160700.png" />
+
 
 <h3>Why Choose SmartApply AI</h3>
 <img src="https://raw.githubusercontent.com/supriya0415/SMARTAPPLY-AI/main/screenshots/Screenshot%202025-12-26 160728.png" />
